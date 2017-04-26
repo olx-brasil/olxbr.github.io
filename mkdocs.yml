@@ -1,0 +1,42 @@
+site_name: 'Cultura Tecnologia e Produto OLX.'
+repo_url: https://github.com/olxbr/techandprod
+pages:
+ - Home: 'index.md'
+ - Organização:
+    - Sobre nós: 'organizacao/index.md'
+    - Produto: 'organizacao/produto.md'
+    - Tecnologia: 'organizacao/tecnologia.md'
+    - Agile Coach: 'organizacao/agile.md'
+    - Modelo Spotfy: 'organizacao/spotify.md'
+ - Carreira em Y:
+      - O que é: 'carreiray/index.md'
+      - Cultura de Feedbacks: carreiray/feedbacks.md
+#      - Avaliação 360: carreiray/avaliacao.md
+#      - Pilares de avaliação: carreiray/pilares.md
+ - 'Nossa visão de ownership':
+      - Ownership: 'ownership/index.md'
+      - Exemplos de ownership: 'ownership/exemplos.md'
+ - DevOPs:
+    - O que é: devops/index.md
+ - Squads:
+#      - BigData: 'squads/bigdata/index.md'
+      - Cloud Engineering: 'squads/cloudengineering/index.md'
+#      - Chat:  'squads/chat/index.md'
+#      - Tools: 'squads/tools/index.md'
+#      - ADS: 'squads/ads/index.md'
+#      - Content Discovery: 'squads/conentdiscovery/index.md'
+#      - Feeds: 'squads/feeds/index.md'
+#      - Online Sales: 'squads/onlinesales/index.md'
+#      - Qualidade: 'squads/qualidade/index.md'
+#      - Tracking: 'squads/tracking/index.md'
+      - Network & Servers: 'squads/networkservers/index.md'
+      - Service Desk: 'squads/servicedesk/index.md'
+ - Wiki:
+     - Cloud Engineering: 'squads/cloudengineering/wiki.md'
+ - Post mortem:
+      - Histórico: 'postmortem/index.md'
+      - Degradações: 'postmortem/degradacoes/20170701x.md'
+      - Indisponibilidades: 'postmortem/indisponibilidades/20170701y.md'
+# - Blog: 'blog.md'
+theme: readthedocs
+remote_branch: master
