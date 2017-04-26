@@ -1,0 +1,404 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Cultura Tecnologia & Produto OLX\n\n\nEm poucas palavras, cultura de um lugar \u00e9 formada por h\u00e1bitos, costumes, \"leis\", express\u00f5es e pensamentos que ligam uma sociedade. Temos a cultura OLX de fazer as coisas mas como Tecnologia e Produto temos tamb\u00e9m nossos pr\u00f3prios h\u00e1bitos, costumes e pensamentos.\n\n\nToda cultura \u00e9 evolutiva e nos inspiramos em boas id\u00e9ias \noriginada aqui\n para termos nossa cultura evolu\u00edda atrav\u00e9s de vers\u00f5es do GIT!\n\n\nA \"pegada\" disso \u00e9 que todos podem participar da evolu\u00e7\u00e3o de nossa cultura e deixar tudo registrado para que possamos adotar essa documenta\u00e7\u00e3o como fonte de consulta e inspira\u00e7\u00e3o a cerca de nossos valores, condutas e pensamentos.\n\n\nComo somos nerds, usamos a ferramenta \nmkDocs\n do python para orquestrar nossa cultura.",
+            "title": "Home"
+        },
+        {
+            "location": "/#cultura-tecnologia-produto-olx",
+            "text": "Em poucas palavras, cultura de um lugar \u00e9 formada por h\u00e1bitos, costumes, \"leis\", express\u00f5es e pensamentos que ligam uma sociedade. Temos a cultura OLX de fazer as coisas mas como Tecnologia e Produto temos tamb\u00e9m nossos pr\u00f3prios h\u00e1bitos, costumes e pensamentos.  Toda cultura \u00e9 evolutiva e nos inspiramos em boas id\u00e9ias  originada aqui  para termos nossa cultura evolu\u00edda atrav\u00e9s de vers\u00f5es do GIT!  A \"pegada\" disso \u00e9 que todos podem participar da evolu\u00e7\u00e3o de nossa cultura e deixar tudo registrado para que possamos adotar essa documenta\u00e7\u00e3o como fonte de consulta e inspira\u00e7\u00e3o a cerca de nossos valores, condutas e pensamentos.  Como somos nerds, usamos a ferramenta  mkDocs  do python para orquestrar nossa cultura.",
+            "title": "Cultura Tecnologia &amp; Produto OLX"
+        },
+        {
+            "location": "/organizacao/",
+            "text": "Organiza\u00e7\u00e3o Tecnologia & Produto\n\n\nSomos uma empresa de Produto e Tecnologia !\n\n\nSomos dois times em \num\n! Um site t\u00e3o complexo como o OLX, precisa de pessoas com mentes criativas em produto e por sua vez, precisamos de nerds F*** engenheiros para fazer tudo isso se tornar realidade!!!\n\n\n\n\nProduto sem tecnologia se chama utopia!\n\n\nEngenharia sem produto se chama hobby!\n\n\n\n\nEnt\u00e3o, nos organizamos em duas \u00e1reas: \nProduto\n: liderado pela Janet Baivera; \nTecnologia\n: liderado por Bernardo Carneiro e pela uni\u00e3o dos seus poderes, vai planeta (Para os que nasceram antes dos anos 90!)",
+            "title": "Sobre n\u00f3s"
+        },
+        {
+            "location": "/organizacao/#organizacao-tecnologia-produto",
+            "text": "",
+            "title": "Organiza\u00e7\u00e3o Tecnologia &amp; Produto"
+        },
+        {
+            "location": "/organizacao/#somos-uma-empresa-de-produto-e-tecnologia",
+            "text": "Somos dois times em  um ! Um site t\u00e3o complexo como o OLX, precisa de pessoas com mentes criativas em produto e por sua vez, precisamos de nerds F*** engenheiros para fazer tudo isso se tornar realidade!!!   Produto sem tecnologia se chama utopia!  Engenharia sem produto se chama hobby!   Ent\u00e3o, nos organizamos em duas \u00e1reas:  Produto : liderado pela Janet Baivera;  Tecnologia : liderado por Bernardo Carneiro e pela uni\u00e3o dos seus poderes, vai planeta (Para os que nasceram antes dos anos 90!)",
+            "title": "Somos uma empresa de Produto e Tecnologia !"
+        },
+        {
+            "location": "/organizacao/produto/",
+            "text": "Produto na OLX\n\n\nPalavras da Janet.",
+            "title": "Produto"
+        },
+        {
+            "location": "/organizacao/produto/#produto-na-olx",
+            "text": "Palavras da Janet.",
+            "title": "Produto na OLX"
+        },
+        {
+            "location": "/organizacao/tecnologia/",
+            "text": "Tecnologia\n\n\nPalavras do Bernardo",
+            "title": "Tecnologia"
+        },
+        {
+            "location": "/organizacao/tecnologia/#tecnologia",
+            "text": "Palavras do Bernardo",
+            "title": "Tecnologia"
+        },
+        {
+            "location": "/organizacao/agile/",
+            "text": "Agile Coach\n\n\nPalavras do Mattosso",
+            "title": "Agile Coach"
+        },
+        {
+            "location": "/organizacao/agile/#agile-coach",
+            "text": "Palavras do Mattosso",
+            "title": "Agile Coach"
+        },
+        {
+            "location": "/organizacao/spotify/",
+            "text": "Modelo Spotify\n\n\nN\u00e3o usamos tudo on the book pois temos nossa cultura com miss\u00e3o e valores a like BR (no bom sentido)! Mas, gostamos muito de como o Spotify resolveu v\u00e1rios problemas para que o time se tornassem aut\u00f4nomos e eficazes - modelo sem atitude n\u00e3o funciona!\n\n\nPor isso, usamos algumas coisas do Spotify como inspira\u00e7\u00e3o para gerar a nossa organiza\u00e7\u00e3o de times e buscamos acima de tudo incentivar atitudes que geram resultados incr\u00edveis.\n\n\nSquad\n\n\nS\u00e3o pequenos grupos multi-disciplinares. A diferen\u00e7a entre um time tradicional e um squad \u00e9 justamente a caracter\u00edstica de serem multi-disciplinar e incorporar a cultura DevOps. Cada squad \u00e9 respons\u00e1vel por um produto ou um fragmento do produto, dependendo da complexidade.\n\n\nDevido a estas caracter\u00edsticas, um Squad possui a velocidade e efici\u00eancia de uma startup.\n\n\nSer multi-disciplinar significa que cada squad pode ser comporta por:\n- Um ou mais desenvolvedores FrontEnd\n- Um ou mais desenvolvedores BackEnd\n- Um ou mais mobile developer\n- Pode haver um Ops dedicado\n- Pode haver um QA dedicado\n- Pode haver PO dedicado\n- Pode haver um gerente de engenharia dedicado\n\n\nTribes\n\n\nS\u00e3o um agrupamento de Squads catalogados com o objetivo de atacar quest\u00f5es que se relacionam entre si ou no aspecto de produto ou no aspecto t\u00e9cnico ou em ambos.\n\n\nGuild\n\n\nAs Guilds s\u00e3o agrupamentos de afinidade t\u00e9cnica, cross-organizacional. Com o objetivo de reunir profissionais para compartilhar id\u00e9ia, conhecimento, c\u00f3digo, ferramentas, boas pr\u00e1ticas.\n\n\nExemplos de Guild:\n\n\n\n\nGuild de Arduino\n\n\nGuild de Python\n\n\nGuild de FrontEnd\n\n\nGuild de Agile\n\n\nGuild de BigData\n\n\n\n\nAs Guild permitem que qualquer pessoa da empresa participe sobre os temas de interesse.\n\n\nA Guild pode ter sua agenda organizada pelo profissional mais experiente naquele assunto ou atrav\u00e9s da escolha de um Guild coordinator que ser\u00e1 respons\u00e1vel pelas agendas.\n\n\n\n\nChapter\n\n\nSemelhante a uma Guild mas com o objetivo de criar uma linha de gerenciamento. Por tanto tem o comportamento de um time especializado mas que fica inserido. N\u00e3o usamos muito o conceito de chapter.",
+            "title": "Modelo Spotfy"
+        },
+        {
+            "location": "/organizacao/spotify/#modelo-spotify",
+            "text": "N\u00e3o usamos tudo on the book pois temos nossa cultura com miss\u00e3o e valores a like BR (no bom sentido)! Mas, gostamos muito de como o Spotify resolveu v\u00e1rios problemas para que o time se tornassem aut\u00f4nomos e eficazes - modelo sem atitude n\u00e3o funciona!  Por isso, usamos algumas coisas do Spotify como inspira\u00e7\u00e3o para gerar a nossa organiza\u00e7\u00e3o de times e buscamos acima de tudo incentivar atitudes que geram resultados incr\u00edveis.",
+            "title": "Modelo Spotify"
+        },
+        {
+            "location": "/organizacao/spotify/#squad",
+            "text": "S\u00e3o pequenos grupos multi-disciplinares. A diferen\u00e7a entre um time tradicional e um squad \u00e9 justamente a caracter\u00edstica de serem multi-disciplinar e incorporar a cultura DevOps. Cada squad \u00e9 respons\u00e1vel por um produto ou um fragmento do produto, dependendo da complexidade.  Devido a estas caracter\u00edsticas, um Squad possui a velocidade e efici\u00eancia de uma startup.  Ser multi-disciplinar significa que cada squad pode ser comporta por:\n- Um ou mais desenvolvedores FrontEnd\n- Um ou mais desenvolvedores BackEnd\n- Um ou mais mobile developer\n- Pode haver um Ops dedicado\n- Pode haver um QA dedicado\n- Pode haver PO dedicado\n- Pode haver um gerente de engenharia dedicado",
+            "title": "Squad"
+        },
+        {
+            "location": "/organizacao/spotify/#tribes",
+            "text": "S\u00e3o um agrupamento de Squads catalogados com o objetivo de atacar quest\u00f5es que se relacionam entre si ou no aspecto de produto ou no aspecto t\u00e9cnico ou em ambos.",
+            "title": "Tribes"
+        },
+        {
+            "location": "/organizacao/spotify/#guild",
+            "text": "As Guilds s\u00e3o agrupamentos de afinidade t\u00e9cnica, cross-organizacional. Com o objetivo de reunir profissionais para compartilhar id\u00e9ia, conhecimento, c\u00f3digo, ferramentas, boas pr\u00e1ticas.  Exemplos de Guild:   Guild de Arduino  Guild de Python  Guild de FrontEnd  Guild de Agile  Guild de BigData   As Guild permitem que qualquer pessoa da empresa participe sobre os temas de interesse.  A Guild pode ter sua agenda organizada pelo profissional mais experiente naquele assunto ou atrav\u00e9s da escolha de um Guild coordinator que ser\u00e1 respons\u00e1vel pelas agendas.",
+            "title": "Guild"
+        },
+        {
+            "location": "/organizacao/spotify/#chapter",
+            "text": "Semelhante a uma Guild mas com o objetivo de criar uma linha de gerenciamento. Por tanto tem o comportamento de um time especializado mas que fica inserido. N\u00e3o usamos muito o conceito de chapter.",
+            "title": "Chapter"
+        },
+        {
+            "location": "/carreiray/",
+            "text": "Carreira em Y\n\n\n\n\nA carreira Y \u00e9 a forma de continuar com o plano de carreira e desenvolvimento de pessoas em carreira t\u00e9cnica.\n\n\nPara termos uma carreira y eficiente precisamos de um mecanismo de avalia\u00e7\u00e3o para diferenciar claramente os n\u00edveis de maturidade de um indiv\u00edduo. Para isso temos a cultura de Feedbacks\n\n\nCultura de FeedBacks\n\n\nFeedback \u00e9 um meio de transmitir a nossa percep\u00e7\u00e3o sobre uma pessoa de forma construtiva e com o objetivo de desenvolver quem a recebe.\n\n\nGeralmente os feedbacks s\u00e3o aplicados pelos gestores sobre os liderados mas acreditamos que #tamojunto, ent\u00e3o, a verdadeira cultura de feedback permite que as pessoas independentes de \u00e1rea e n\u00edveis hier\u00e1rquicos possam dar um feedback, j\u00e1 que o objetivo \u00e9 sempre desenvolver para melhorar.\n\n\nJ\u00e1 deu seu feedback hoje ?\n\n\nAvalia\u00e7\u00e3o 360\n\n\nOcorre em per\u00edodos trimestrais, s\u00e3o avalia\u00e7\u00f5es 360 grau, onde todas as pessoas do time possam avaliar a pessoa e a si mesmo dentro dos pilares que acreditamos ser fundamental para a evolu\u00e7\u00e3o de carreira/promo\u00e7\u00e3o dentro da OLX.\n\n\nEssas avalia\u00e7\u00f5es devem sempre vir com exemplos e fatos para que os feedbacks gerado possam ser utilizado para o desenvolvimento e oportunidades para o crescimento no plano de carreira.\n\n\nAvaliamos 3 pilares.\n\n\nPilar 1: Conhecimento t\u00e9cnico\n\n\nNeste pilar, \u00e9 avaliado a percep\u00e7\u00e3o do time em rela\u00e7\u00e3o ao n\u00edvel t\u00e9cnico da pessoa.\n\n\nPilar 2: Faz acontecer\n\n\nNeste pilar, \u00e9 avaliado a percep\u00e7\u00e3o do time em rela\u00e7\u00e3o ao quanto essa pessoa \u00e9 engajada em vencer os obst\u00e1culos e a velocidade de entrega das demandas.\n\n\nPilar 3: Impacto\n\n\nNeste pilar, \u00e9 avaliado o grau de impacto que essa pessoa gera no time, no produto, na empresa.",
+            "title": "O que \u00e9"
+        },
+        {
+            "location": "/carreiray/#carreira-em-y",
+            "text": "A carreira Y \u00e9 a forma de continuar com o plano de carreira e desenvolvimento de pessoas em carreira t\u00e9cnica.  Para termos uma carreira y eficiente precisamos de um mecanismo de avalia\u00e7\u00e3o para diferenciar claramente os n\u00edveis de maturidade de um indiv\u00edduo. Para isso temos a cultura de Feedbacks",
+            "title": "Carreira em Y"
+        },
+        {
+            "location": "/carreiray/#cultura-de-feedbacks",
+            "text": "Feedback \u00e9 um meio de transmitir a nossa percep\u00e7\u00e3o sobre uma pessoa de forma construtiva e com o objetivo de desenvolver quem a recebe.  Geralmente os feedbacks s\u00e3o aplicados pelos gestores sobre os liderados mas acreditamos que #tamojunto, ent\u00e3o, a verdadeira cultura de feedback permite que as pessoas independentes de \u00e1rea e n\u00edveis hier\u00e1rquicos possam dar um feedback, j\u00e1 que o objetivo \u00e9 sempre desenvolver para melhorar.  J\u00e1 deu seu feedback hoje ?",
+            "title": "Cultura de FeedBacks"
+        },
+        {
+            "location": "/carreiray/#avaliacao-360",
+            "text": "Ocorre em per\u00edodos trimestrais, s\u00e3o avalia\u00e7\u00f5es 360 grau, onde todas as pessoas do time possam avaliar a pessoa e a si mesmo dentro dos pilares que acreditamos ser fundamental para a evolu\u00e7\u00e3o de carreira/promo\u00e7\u00e3o dentro da OLX.  Essas avalia\u00e7\u00f5es devem sempre vir com exemplos e fatos para que os feedbacks gerado possam ser utilizado para o desenvolvimento e oportunidades para o crescimento no plano de carreira.  Avaliamos 3 pilares.",
+            "title": "Avalia\u00e7\u00e3o 360"
+        },
+        {
+            "location": "/carreiray/#pilar-1-conhecimento-tecnico",
+            "text": "Neste pilar, \u00e9 avaliado a percep\u00e7\u00e3o do time em rela\u00e7\u00e3o ao n\u00edvel t\u00e9cnico da pessoa.",
+            "title": "Pilar 1: Conhecimento t\u00e9cnico"
+        },
+        {
+            "location": "/carreiray/#pilar-2-faz-acontecer",
+            "text": "Neste pilar, \u00e9 avaliado a percep\u00e7\u00e3o do time em rela\u00e7\u00e3o ao quanto essa pessoa \u00e9 engajada em vencer os obst\u00e1culos e a velocidade de entrega das demandas.",
+            "title": "Pilar 2: Faz acontecer"
+        },
+        {
+            "location": "/carreiray/#pilar-3-impacto",
+            "text": "Neste pilar, \u00e9 avaliado o grau de impacto que essa pessoa gera no time, no produto, na empresa.",
+            "title": "Pilar 3: Impacto"
+        },
+        {
+            "location": "/carreiray/feedbacks/",
+            "text": "Cultura de feedbacks\n\n\nN\u00e3o existe cultura de feedbacks sem \"one to one\".\n\n\nO one-one, \u00e9 uma reuni\u00e3o individualizada em um clima menos corporativa poss\u00edvel para que hava espa\u00e7o para bons feedbacks. Podemos fazer one-one em cafeterias, andando no quarteir\u00e3o, em qualquer lugar no qual seja poss\u00edvel diminuir o peso exercido pela hierarquia pois \u00e9 um momento de conex\u00e3o entre duas pessoas para que sejam verdadeiras uma com a outra.\n\n\nPra que serve o One-One ?\n\n\n\n\nAlinhar expectativas entre gestores e liderados\n\n\nTer a oportunidade de expor id\u00e9ias e d\u00favidas\n\n\nOportunidade de melhorias comportamentais\n\n\nZona \"desmilitarizada\", momento no qual \u00e9 poss\u00edvel receber feedbacks e ao mesmo tempo dar feedbacks ao liderado\n\n\nZerar \"magoas\" ou \"descontentamentos\"\n\n\nEntender o pensamento coletivo do time de forma individualizada\n\n\nGerar v\u00ednculo de confian\u00e7a.\n\n\n\n\nPeriodicidade dos one to ones.\n\n\nIsso vai depender muito das caracter\u00edsticas do time ou da pessoa envolvida. Idealmente deve ser semanal mas \u00e9 aceit\u00e1vel quinzenalmente como condi\u00e7\u00e3o limite! Acima disso, j\u00e1 se perde a caracter\u00edstica do one-one.\n\n\nDeve-se ressaltar que \u00e9 uma agenda do liderado tamb\u00e9m, ele pode e deve cobrar o lider para que haja o one-one caso ultrapasse esse tempo!  \n\n\nO que conversar em um one-one\n\n\nExistem pelo menos 7 raz\u00f5es discritas que podem gerar por si ao menos 5 t\u00f3picos para conversar em cada one-one. Mas n\u00e3o existem fronteiras, visto que o objetivo maior \u00e9 gerar conex\u00e3o entre pessoas.\n\n\nEm caso de falta de assunto, conte piadas :-P\n\n\nFeedbacks\n\n\nO Feedback \u00e9 uma resposa de uma pessoa segunda a percep\u00e7\u00e3o dela em cima de pontos positivos ou \"a melhorar\" de um outro indiv\u00edduo focando sempre a melhoria da pessoa que \u00e0 recebe. Sem esse foco, ou seja, melhorar o ind\u00edviduo, n\u00e3o se chama feedback!\n\n\nUm feedback pode ser dado ou recebido entre pessoas de qualquer \u00e1rea da empresa mas \u00e9 muito mais comum que ocorra entre lider e liderado. Incentivamos o feedback constante entre as pessoas do mesmo time.\n\n\nComo dar um Feedbacks\n\n\nO Feedback\n\n\nO Feedback deve ser antes de tudo \nhonesto\n e com evidencias para que ele seja construtivo. Entendendo para que server o memento de feedback\n\n\nAqui vai 3 dicas de como fazer um Feedback construt\u00edvo:\n\n\n\n\nO Feedback deve levar a pessoa a pensar, fa\u00e7a isso sempre gerando perguntas no qual a pr\u00f3pria pessoa pense nas respostas.\n\n\nPode usar bons exemplos dentro da empresa como evid\u00eancia para ajudar a refletir sobre uma boa a\u00e7\u00e3o. Apenas tome cuidado para n\u00e3o fazer isso em forma de compara\u00e7\u00f5es! Compara\u00e7\u00f5es n\u00e3o s\u00e3o uma boa abordagem para um feedback.\n\n\nE por \u00faltimo, quando o feedback for em cima de uma melhoria, tenha sempre um exemplo em cima do comportamento da pessoa para transformar a percep\u00e7\u00e3o em fato.\n\n\n\n\nComo receber um Feedbacks\n\n\nReceber \u00f3timos feedbacks \u00e9 sempre gostoso mas e quando o feedback vem com sabor amargo ? Nem sempre \u00e9 f\u00e1cil aceitarmos que estamos errados, nossos complexos e medos s\u00e3o abalados sempre que algu\u00e9m identifica algo que precisamos melhorar, temos a tend\u00eancia em nos fecharmos e relutamos contra aquilo que foi dito.\n\n\nComo podemos receber um feedback ?\n\n\n\n\nNunca leve na pessoal. A pessoa que esta lhe dando o feedback esta tentando ajuda-lo.\n2.\n\n\n\n\nLembre-se o Feedback foi dado porque h\u00e1 um potencial a ser explorado! Veja sempre o lado positivo.\n2. N\u00e3o tenha vergonha de aceitar a necessidade de melhorias. Um bom profissional \u00e9 aquele que antes de tudo sabe admitir seus erros e buscar sempre crescer como pessoa.\n3. Se tiver resistente ao feedback, de uma pausa, reflita e marque uma nova rodada de conversa sobre esse assunto para que possa entender a perspectiva da pessoa que esta lhe dando aquele feedback.\n\n\nPeriodicidade dos Feedbacks\n\n\nDeve ser dado sempre que h\u00e1 evid\u00eancias substanciais de que uma comportamento n\u00e3o esta alinhado com a cultura da empresa ou que tal comportamento esta intoxicando a vida profissional ou pessoal do indiv\u00edduo.\n\n\nQuanto mais tempo reter esse feedback mais dificil ser\u00e1 para que ocorra uma resposta positiva p\u00f3s-feedback.",
+            "title": "Cultura de Feedbacks"
+        },
+        {
+            "location": "/carreiray/feedbacks/#cultura-de-feedbacks",
+            "text": "N\u00e3o existe cultura de feedbacks sem \"one to one\".  O one-one, \u00e9 uma reuni\u00e3o individualizada em um clima menos corporativa poss\u00edvel para que hava espa\u00e7o para bons feedbacks. Podemos fazer one-one em cafeterias, andando no quarteir\u00e3o, em qualquer lugar no qual seja poss\u00edvel diminuir o peso exercido pela hierarquia pois \u00e9 um momento de conex\u00e3o entre duas pessoas para que sejam verdadeiras uma com a outra.",
+            "title": "Cultura de feedbacks"
+        },
+        {
+            "location": "/carreiray/feedbacks/#pra-que-serve-o-one-one",
+            "text": "Alinhar expectativas entre gestores e liderados  Ter a oportunidade de expor id\u00e9ias e d\u00favidas  Oportunidade de melhorias comportamentais  Zona \"desmilitarizada\", momento no qual \u00e9 poss\u00edvel receber feedbacks e ao mesmo tempo dar feedbacks ao liderado  Zerar \"magoas\" ou \"descontentamentos\"  Entender o pensamento coletivo do time de forma individualizada  Gerar v\u00ednculo de confian\u00e7a.",
+            "title": "Pra que serve o One-One ?"
+        },
+        {
+            "location": "/carreiray/feedbacks/#periodicidade-dos-one-to-ones",
+            "text": "Isso vai depender muito das caracter\u00edsticas do time ou da pessoa envolvida. Idealmente deve ser semanal mas \u00e9 aceit\u00e1vel quinzenalmente como condi\u00e7\u00e3o limite! Acima disso, j\u00e1 se perde a caracter\u00edstica do one-one.  Deve-se ressaltar que \u00e9 uma agenda do liderado tamb\u00e9m, ele pode e deve cobrar o lider para que haja o one-one caso ultrapasse esse tempo!",
+            "title": "Periodicidade dos one to ones."
+        },
+        {
+            "location": "/carreiray/feedbacks/#o-que-conversar-em-um-one-one",
+            "text": "Existem pelo menos 7 raz\u00f5es discritas que podem gerar por si ao menos 5 t\u00f3picos para conversar em cada one-one. Mas n\u00e3o existem fronteiras, visto que o objetivo maior \u00e9 gerar conex\u00e3o entre pessoas.  Em caso de falta de assunto, conte piadas :-P",
+            "title": "O que conversar em um one-one"
+        },
+        {
+            "location": "/carreiray/feedbacks/#feedbacks",
+            "text": "O Feedback \u00e9 uma resposa de uma pessoa segunda a percep\u00e7\u00e3o dela em cima de pontos positivos ou \"a melhorar\" de um outro indiv\u00edduo focando sempre a melhoria da pessoa que \u00e0 recebe. Sem esse foco, ou seja, melhorar o ind\u00edviduo, n\u00e3o se chama feedback!  Um feedback pode ser dado ou recebido entre pessoas de qualquer \u00e1rea da empresa mas \u00e9 muito mais comum que ocorra entre lider e liderado. Incentivamos o feedback constante entre as pessoas do mesmo time.",
+            "title": "Feedbacks"
+        },
+        {
+            "location": "/carreiray/feedbacks/#como-dar-um-feedbacks",
+            "text": "O Feedback  O Feedback deve ser antes de tudo  honesto  e com evidencias para que ele seja construtivo. Entendendo para que server o memento de feedback  Aqui vai 3 dicas de como fazer um Feedback construt\u00edvo:   O Feedback deve levar a pessoa a pensar, fa\u00e7a isso sempre gerando perguntas no qual a pr\u00f3pria pessoa pense nas respostas.  Pode usar bons exemplos dentro da empresa como evid\u00eancia para ajudar a refletir sobre uma boa a\u00e7\u00e3o. Apenas tome cuidado para n\u00e3o fazer isso em forma de compara\u00e7\u00f5es! Compara\u00e7\u00f5es n\u00e3o s\u00e3o uma boa abordagem para um feedback.  E por \u00faltimo, quando o feedback for em cima de uma melhoria, tenha sempre um exemplo em cima do comportamento da pessoa para transformar a percep\u00e7\u00e3o em fato.",
+            "title": "Como dar um Feedbacks"
+        },
+        {
+            "location": "/carreiray/feedbacks/#como-receber-um-feedbacks",
+            "text": "Receber \u00f3timos feedbacks \u00e9 sempre gostoso mas e quando o feedback vem com sabor amargo ? Nem sempre \u00e9 f\u00e1cil aceitarmos que estamos errados, nossos complexos e medos s\u00e3o abalados sempre que algu\u00e9m identifica algo que precisamos melhorar, temos a tend\u00eancia em nos fecharmos e relutamos contra aquilo que foi dito.  Como podemos receber um feedback ?   Nunca leve na pessoal. A pessoa que esta lhe dando o feedback esta tentando ajuda-lo.\n2.   Lembre-se o Feedback foi dado porque h\u00e1 um potencial a ser explorado! Veja sempre o lado positivo.\n2. N\u00e3o tenha vergonha de aceitar a necessidade de melhorias. Um bom profissional \u00e9 aquele que antes de tudo sabe admitir seus erros e buscar sempre crescer como pessoa.\n3. Se tiver resistente ao feedback, de uma pausa, reflita e marque uma nova rodada de conversa sobre esse assunto para que possa entender a perspectiva da pessoa que esta lhe dando aquele feedback.",
+            "title": "Como receber um Feedbacks"
+        },
+        {
+            "location": "/carreiray/feedbacks/#periodicidade-dos-feedbacks",
+            "text": "Deve ser dado sempre que h\u00e1 evid\u00eancias substanciais de que uma comportamento n\u00e3o esta alinhado com a cultura da empresa ou que tal comportamento esta intoxicando a vida profissional ou pessoal do indiv\u00edduo.  Quanto mais tempo reter esse feedback mais dificil ser\u00e1 para que ocorra uma resposta positiva p\u00f3s-feedback.",
+            "title": "Periodicidade dos Feedbacks"
+        },
+        {
+            "location": "/ownership/",
+            "text": "Ownership\n\n\nN\u00e3o \u00e9 um conceito, \u00e9 um valor! Esse valor transcede a OLX, transcede cultura, nacionalidade, legisla\u00e7\u00e3o. \u00c9 um valor pessoal, um sentimento de dono pela qualidade do que se produz.\n\n\nO Verdadeiro Ownership\n\n\nComo dito, \u00e9 um valor e como valor, deve ser algo que as pessoas possuem (ou n\u00e3o), pela qual, a OLX incentiva! Queremos profissionais compromissados, apaixonados, dispostos a entender que nossos produtos geram impactos reais na vida das pessoas.\n\n\nO verdadeiro ownership pensa al\u00e9m da pr\u00f3pria empresa, pensa no consumidor, naquele que usa o produto no qual ele auxiliou a criar.\n\n\nCultura DevOps\n\n\nA cultura DevOps, pela pr\u00f3pria caracter\u00edstica, \u00e9 um concentrador de talentos com esse valor. N\u00e3o existe cultura DevOps sem pessoas com ownership porque parte da cultura \u00e9 justamente o \"You Build It, You Run It\".",
+            "title": "Ownership"
+        },
+        {
+            "location": "/ownership/#ownership",
+            "text": "N\u00e3o \u00e9 um conceito, \u00e9 um valor! Esse valor transcede a OLX, transcede cultura, nacionalidade, legisla\u00e7\u00e3o. \u00c9 um valor pessoal, um sentimento de dono pela qualidade do que se produz.",
+            "title": "Ownership"
+        },
+        {
+            "location": "/ownership/#o-verdadeiro-ownership",
+            "text": "Como dito, \u00e9 um valor e como valor, deve ser algo que as pessoas possuem (ou n\u00e3o), pela qual, a OLX incentiva! Queremos profissionais compromissados, apaixonados, dispostos a entender que nossos produtos geram impactos reais na vida das pessoas.  O verdadeiro ownership pensa al\u00e9m da pr\u00f3pria empresa, pensa no consumidor, naquele que usa o produto no qual ele auxiliou a criar.",
+            "title": "O Verdadeiro Ownership"
+        },
+        {
+            "location": "/ownership/#cultura-devops",
+            "text": "A cultura DevOps, pela pr\u00f3pria caracter\u00edstica, \u00e9 um concentrador de talentos com esse valor. N\u00e3o existe cultura DevOps sem pessoas com ownership porque parte da cultura \u00e9 justamente o \"You Build It, You Run It\".",
+            "title": "Cultura DevOps"
+        },
+        {
+            "location": "/ownership/exemplos/",
+            "text": "Exemplos de Ownership\n\n\nOwnership \u00e9 um valor e n\u00e3o existe um manual de como geramos isso em n\u00f3s. A melhor maneira de dizer o que \u00e9 um ownership \u00e9 pegando pessoas com essa caracter\u00edstica.\n\n\nMontamos um \"Hall of fame\" de pessoas que merecem estar nesta p\u00e1gina e que servem de inspira\u00e7\u00e3o para toda a Tecnologia e Produto da OLX.\n\n\nHALL OF FAME DO OWNERSHIP:\n\n\nDiogo Munhoz:\n\n\nContexto\n: Feriad\u00e3o, sexta-feira, 21/04. Ele se colocou a disposi\u00e7\u00e3o para ajudar colocando-se \u00e0 disposi\u00e7\u00e3o em 1 minuto ap\u00f3s um pedido de socorro.",
+            "title": "Exemplos de ownership"
+        },
+        {
+            "location": "/ownership/exemplos/#exemplos-de-ownership",
+            "text": "Ownership \u00e9 um valor e n\u00e3o existe um manual de como geramos isso em n\u00f3s. A melhor maneira de dizer o que \u00e9 um ownership \u00e9 pegando pessoas com essa caracter\u00edstica.  Montamos um \"Hall of fame\" de pessoas que merecem estar nesta p\u00e1gina e que servem de inspira\u00e7\u00e3o para toda a Tecnologia e Produto da OLX.",
+            "title": "Exemplos de Ownership"
+        },
+        {
+            "location": "/ownership/exemplos/#hall-of-fame-do-ownership",
+            "text": "Diogo Munhoz:  Contexto : Feriad\u00e3o, sexta-feira, 21/04. Ele se colocou a disposi\u00e7\u00e3o para ajudar colocando-se \u00e0 disposi\u00e7\u00e3o em 1 minuto ap\u00f3s um pedido de socorro.",
+            "title": "HALL OF FAME DO OWNERSHIP:"
+        },
+        {
+            "location": "/devops/",
+            "text": "Cultura DevOps: Direitos e Deveres.\n\n\nO que DevOps? Cultura, pessoa ou papel?\n\n\n\n\nPela imagem extra\u00edda da Wiki, fica muito simples entender visualmente: https://en.wikipedia.org/wiki/DevOps\n\n\nMas em todos os lugares que lemos ainda n\u00e3o fica bem claro o que \u00e9 um DevOps, ent\u00e3o, usando a t\u00e9cnica da matem\u00e1tica da nega\u00e7\u00e3o, para entender o que \u00e9 DevOps \u00e9 mais f\u00e1cil entender o que \nDevOps N\u00c3O \u00c9\n:\n\n\n\n\nDevOps n\u00e3o \u00e9: Um desenvolvedor high skilled em infra e high skilled em QA;\n\n\nDevOps n\u00e3o \u00e9: Um cara de infra  high skilled em desenvolvimento e em QA;\n\n\nDevOps n\u00e3o \u00e9: Um cara de QA  high skilled em Infra e em desenvolvimento.\n\n\n\n\nEnt\u00e3o,  se n\u00e3o \u00e9 um super dev, super qa ou super infra, entende-se que qualquer dev, qualquer qa e qualquer infra pode ser considerado DevOps ? A resposta est\u00e1 correta!\n\n\nPor tanto, DevOps n\u00e3o \u00e9 uma pessoa e sim um papel que pode ser adicionado \u00e0 um Dev ou Qa, ou Infra. Em um time, pode haver ent\u00e3o uma \u00fanica pessoa com essa caracter\u00edstica ou todo o time.\n\n\nPor que um time precisa entrar na cultura DevOps.\n\n\n->\n<-\n\n\nQuais s\u00e3o as reais necessidades do time quando se pensa em pedir ajuda para infra ?\n\n\n\n\nAcesso ao ambiente de produ\u00e7\u00e3o para puxar logs e realizar depura\u00e7\u00f5es\n\n\nAux\u00edlio em configurar/manter as ferramentas de monitoramento\n\n\nAux\u00edlio em configurar/manter os processos de deploy em produ\u00e7\u00e3o\n\n\nConfigurar um novo recurso de infraestrutura para subir um novo deploy.\n\n\nAux\u00edlio em configurar controle de vers\u00e3o ou garantir o bom funcionamento deste controle.\n\n\n\n\nEssas tarefas s\u00e3o simples e plaus\u00edveis de serem replicados para dentro dos times, ou seja,  \u00e9 muito f\u00e1cil treinar os desenvolvedores a realizarem estas 5 tarefas no dia a dia, gerando total dinamismo e velocidade.\n\n\nA cultura DevOps permite voc\u00ea escolher um candidato com mais musculatura ops, ou dev ou qa, isso conforme os gaps existente nos times mas em linhas  gerais, todos ser\u00e3o DevOps.\n\n\nEnt\u00e3o n\u00e3o precisamos ter um DevOps dedicado?\n\n\n\n\nTodos os membros dos times, sem exce\u00e7\u00e3o, pode ser um DevOps!\n O que ocorre \u00e9 uma fase de transi\u00e7\u00e3o, onde n\u00e3o existe ainda um alicerce em infra-estrutura para proteger os times (deles mesmos) de impactos ocasionado pela nova filosofia de trabalho. Do outro lado, h\u00e1 ainda a necessidade dos times de desenvolvimento aprender as novas ferramentas que comp\u00f5e o papel de um DevOps.\n\n\nLogicamente, durante a transmiss\u00e3o entre uma cultura tradicional e DevOps, h\u00e1 a necessidade de um plano de a\u00e7\u00e3o transit\u00f3rio e naturalmente, \u00e9 normal em a cultura tradicional, toda a parte operacional esteja em infraestrutura.\n\n\nEnt\u00e3o, em um processo tr\u00e2nsito, infraestrutura possui a miss\u00e3o de auxiliar os desenvolvedores a entender as ferramentas e atividades operacionais necess\u00e1ria para que o time absorva a cultura DevOps e recebam total ownership do ambiente.\n\n\nO recurso de infra tentar\u00e1 participar das cerim\u00f4nias dos times sempre que poss\u00edvel mas sua principal atribui\u00e7\u00e3o ser\u00e1 suportar e treinar o time em ser auto suficiente atrav\u00e9s da cultura DevOps.\n\n\nUma vez que o time absorveu por completo toda a cultura DevOps, n\u00e3o h\u00e1 mais a necessidade de infraestrutura fornecer um indiv\u00edduo auxiliador com caracter\u00edsticas Ops.\n\n\nOps = IT operator, \u00e9 a parte infra da nomenclature DevOps.\n\n\nUm Ops dedicado responde para quem Infra ou Dev?\n\n\nEntretanto, pode-se chegar a conclus\u00e3o por quest\u00f5es de neg\u00f3cio (ou outro motivo especial) o time de fato necessite de Ops(removido o Dev propositalmente) dedicado permanente.\n\n\nEm casos assim, o papel OPS soma-se igualmente na relev\u00e2ncia t\u00e9cnica da composi\u00e7\u00e3o do time, motivo evidente para que o gestor use de seu head-count a fim de contratar este recurso.\n\n\nExemplos de casos especiais: stacks como Data Store(NoSQL, SQL, Search Engine) ou qualquer outra stack de aten\u00e7\u00e3o no qual um desenvolvedor n\u00e3o conseguiria se aprofundar usando sua musculatura ops e que fa\u00e7a sentido ao time ter algu\u00e9m especializado.\n\n\nTodavia, pela caracter\u00edstica de similaridade com infra e total sinergia, esse membro Ops do time receber\u00e1 coaching t\u00e9cnico do time de infra. Pensando em analogia ao modelo de Squad seria o conceito de Guild.\n\n\nNa cultura DevOps pode-se fazer tudo no ambiente, j\u00e1 que se tem acesso a tudo ?\n\n\nUma boa analogia para definir limites \u00e9 pensar exatamente como um pr\u00e9dio:\n\n\n->\n<-\n\n\nMesmo comprando um apartamento que custou milh\u00f5es de Reais, n\u00e3o podemos simplesmente ir estacionando o carro em qualquer lugar, mudar a fachada de nossa varanda, muito menos impedir outros moradores de usar o elevador. Em um pr\u00e9dio h\u00e1 o s\u00edndico e sua equipe que tem como responsabilidade a  seguran\u00e7a, organiza\u00e7\u00e3o e manuten\u00e7\u00e3o da \u00e1rea comum!\n\n\nComo dono do apartamento, podemos quebrar paredes para ampliar um espa\u00e7o em especial, mudar a decora\u00e7\u00e3o, dormir o dia todo ou ficar sempre acordado mas n\u00e3o podemos criar uma nova entrada para o apartamento que force o vizinho a tomar medidas por causa disso. Deve-se tomar cuidado com a palavra AUTONOMIA DA STACK!\n\n\nNa cultura DevOps n\u00e3o pode fugir do escopo do time, deve pensar que criar uma VPC pode abrir um problema de comunica\u00e7\u00e3o entre VPN e VPC entre o escrit\u00f3rio e outros times (usando a analogia AWS). Desta maneira, o time tem acesso a sua infraestrutura mas suas a\u00e7\u00f5es n\u00e3o podem impactar algumas diretrizes.\n\n\nOs times no contexto DevOps devem ser respons\u00e1veis por manter o ambiente documentado, para isso existem algumas ferramentas com o \ngliffy.com\n que permite desenho colaborativo.\n\n\nO escopo DevOps \u00e9 unicamente o pr\u00f3prio time:\n\n Garantir a comunica\u00e7\u00e3o e alinhamento entre as \u00e1reas em n\u00edvel horizontal (uso do Slack).\n\n Cultura \u201cVoc\u00ea fez, voc\u00ea cuida.\"\n\n Documenta\u00e7\u00e3o da stack.\n\n Atua\u00e7\u00e3o em quest\u00f5es de infraestrutura e Qualidade/Automa\u00e7\u00e3o.\n\n Garantir automa\u00e7\u00f5es que melhorem a qualidade do lifecycle.\n\n Garantir o bom uso dos recursos computacionais do time\n* Garantir que todo o time se comuniquem de forma documentada, por exemplo, incentivando o time a detalhar situa\u00e7\u00f5es em ferramentas como Slack.\n\n\nSendo assim, desenvolvedores DevOps devem ter uma intera\u00e7\u00e3o muito grande com todos: Infra, QA e os demais Devs de outros times para conseguir atingir os objetivos.\n\n\nMais adiante ser\u00e1 exposto em duas sess\u00f5es o que dentro da cultura DevOps \npoder\u00e1\n e \nn\u00e3o poder\u00e1\n fazer.\n\n\nEnt\u00e3o, qual seria o papel de Infra-estrutura.\n\n\nExatamente como na analogia do s\u00edndico e sua equipe, a OLX vem se dedicando em \ngarantir que as equipe possam desenvolver suas caracter\u00edsticas em velocidade r\u00e1pida sem risco de ser bloquear outras equipes (MISS\u00c3O)\n.\n\n\nO S\u00edndico geralmente tem um apartamento no pr\u00e9dio mas mesmo ele precisa seguir as mesmas regras para que tudo funcione perfeitamente.\n\n\nPara conseguir criar os alicerces necess\u00e1rios \u00e0  autonomia dos times, todos os tr\u00eas cases possuem em seus respectivos time infraestrutura a cultura DevOps ao ponto de possuir desenvolvedores backend/frontend e BigData Engineers.\n\n\nO papel desses times passaram de ser operacional para gerarem solu\u00e7\u00f5es que garantam a seguran\u00e7a, autonomia e harmonia t\u00e9cnica entre os times que geram os produtos.\n\n\nCloud Engineering\n\n\nO time respons\u00e1vel dentro da OLX por essa gest\u00e3o chama-se Cloud Engineering.\n\n\nUm Cloud Engineer, \u00e9 respons\u00e1vel por desenhar as solu\u00e7\u00f5es em parceria com os times de desenvolvimento para garantir boas pr\u00e1ticas aos novos ambientes necess\u00e1rios. Essa parceria deve garantir sempre um Win-Win.\n\n\nO escopo do cloud engineer atinge todos os times da engenharia/produto de software (cross):\n\n Respons\u00e1vel juntamente com um especialista em seguran\u00e7a da informa\u00e7\u00e3o das quest\u00f5es pr\u00e1ticas de seguran\u00e7a.\n\n Respons\u00e1vel sobre a infraestrutura base dos times\n\n Respons\u00e1vel sobre  CDN e WAF dos times\n\n Respons\u00e1vel sobre os DNSs externos dos times.\n\n Aux\u00edlio na resolu\u00e7\u00e3o de problemas e documenta\u00e7\u00e3o da stack dos times de tecnologia.\n\n Respons\u00e1vel sobre os pontos de converg\u00eancia inter-times, como banco de dados monolito.\n\n\nMas, dentro da cultura DevOps os times n\u00e3o deveriam resolver os problemas sozinhos ?\n\n\nSim, por\u00e9m,  lembrando que alguns problemas envolve um grau de conhecimento muito especialista impens\u00e1vel para a defini\u00e7\u00e3o do que \u00e9 um DevOps, para esse caso, o Cloud-Engineer \u00e9 um segundo n\u00edvel, sendo o primeiro n\u00edvel o pr\u00f3prio time.\n\n\nSendo pr\u00e1tico, o que dentro de cultura DevOps os times n\u00e3o deve/conseguiram fazer sozinho.\n\n\nAlterar configura\u00e7\u00f5es de rede: VPC e  security group Group(AWS ou equivalente em outra Cloud).\n\n\nEssas configura\u00e7\u00f5es devem ser realizadas em parceria com o time de Cloud em fun\u00e7\u00e3o de serem configura\u00e7\u00f5es que impactam a seguran\u00e7a da empresa como um todo e os scripts que automatizam os controles da Cloud criados pelos Cloud Engineers.\n\n\nDesligar ou reiniciar servi\u00e7os, inst\u00e2ncias de outros times.\n\n\nOs DevOps poder\u00e3o reiniciar, desligar e dar terminate nos recursos computacionais do pr\u00f3prio time, ter\u00e3o total autonomia para isso mas n\u00e3o dever\u00e3o realizar esse procedimento na stack do outro time mesmo que a causa raiz de um dado problema seja um mal funcionamento em um servi\u00e7o deste dado time. Para casos assim, deve-se envolver os DevOps do dado time para que haja essas a\u00e7\u00f5es.\n\n\nCriar sozinho m\u00e1quinas cuja o custo seja maior que U$ 0.30 hora.\n\n\nA iniciativa  \u00e9 o envolver diretamente um Cloud Engineer para avaliar alternativas como por exemplo, a utiliza\u00e7\u00e3o de escalamento horizontal utilizando m\u00e1quinas mais baratas e por consequ\u00eancia, um Double check a fim de validar a real necessidade do recursos computacionais de pre\u00e7o expressivo.\n\n\nLevantar inst\u00e2ncia computacionais fora do padr\u00e3o.\n\n\nH\u00e1 algumas precisas para que uma inst\u00e2ncia computacional seja leg\u00edvel estar em opera\u00e7\u00e3o no ambiente e fora destes padr\u00f5es:\n\n\n\n\nDeve possuir tags de identifica\u00e7\u00e3o\n\n\nDeve utilizar as credenciais de acesso SSH adequado ao time (pem key do time j\u00e1 pr\u00e9, existe).\n\n\nDeve ser inst\u00e2ncias levantada dentro da rede (VPC em analogia AWS) do time.\n\n\n\n\nEsses padr\u00f5es servem para a seguran\u00e7a e uniformidade da tecnologia. Inst\u00e2ncias fora destes requisitos ter\u00e3o tempo de vida m\u00e1xima de 30 minutos no ambiente.\n\n\nCria\u00e7\u00e3o de novos logins  / usu\u00e1rios ou roles.\n\n\nTodos os objetos que se referem a seguran\u00e7a, s\u00e3o pontos de gest\u00e3o cross-team e necessita de uma gest\u00e3o unificada.\n\n\nSendo pr\u00e1tico, o que os times deveriam/conseguiriam fazer sozinhos.\n\n\nQualquer coisa que n\u00e3o esteja listado no t\u00f3pico anterior \ud83d\ude04.",
+            "title": "O que \u00e9"
+        },
+        {
+            "location": "/devops/#cultura-devops-direitos-e-deveres",
+            "text": "O que DevOps? Cultura, pessoa ou papel?   Pela imagem extra\u00edda da Wiki, fica muito simples entender visualmente: https://en.wikipedia.org/wiki/DevOps  Mas em todos os lugares que lemos ainda n\u00e3o fica bem claro o que \u00e9 um DevOps, ent\u00e3o, usando a t\u00e9cnica da matem\u00e1tica da nega\u00e7\u00e3o, para entender o que \u00e9 DevOps \u00e9 mais f\u00e1cil entender o que  DevOps N\u00c3O \u00c9 :   DevOps n\u00e3o \u00e9: Um desenvolvedor high skilled em infra e high skilled em QA;  DevOps n\u00e3o \u00e9: Um cara de infra  high skilled em desenvolvimento e em QA;  DevOps n\u00e3o \u00e9: Um cara de QA  high skilled em Infra e em desenvolvimento.   Ent\u00e3o,  se n\u00e3o \u00e9 um super dev, super qa ou super infra, entende-se que qualquer dev, qualquer qa e qualquer infra pode ser considerado DevOps ? A resposta est\u00e1 correta!  Por tanto, DevOps n\u00e3o \u00e9 uma pessoa e sim um papel que pode ser adicionado \u00e0 um Dev ou Qa, ou Infra. Em um time, pode haver ent\u00e3o uma \u00fanica pessoa com essa caracter\u00edstica ou todo o time.",
+            "title": "Cultura DevOps: Direitos e Deveres."
+        },
+        {
+            "location": "/devops/#por-que-um-time-precisa-entrar-na-cultura-devops",
+            "text": "-> <-  Quais s\u00e3o as reais necessidades do time quando se pensa em pedir ajuda para infra ?   Acesso ao ambiente de produ\u00e7\u00e3o para puxar logs e realizar depura\u00e7\u00f5es  Aux\u00edlio em configurar/manter as ferramentas de monitoramento  Aux\u00edlio em configurar/manter os processos de deploy em produ\u00e7\u00e3o  Configurar um novo recurso de infraestrutura para subir um novo deploy.  Aux\u00edlio em configurar controle de vers\u00e3o ou garantir o bom funcionamento deste controle.   Essas tarefas s\u00e3o simples e plaus\u00edveis de serem replicados para dentro dos times, ou seja,  \u00e9 muito f\u00e1cil treinar os desenvolvedores a realizarem estas 5 tarefas no dia a dia, gerando total dinamismo e velocidade.  A cultura DevOps permite voc\u00ea escolher um candidato com mais musculatura ops, ou dev ou qa, isso conforme os gaps existente nos times mas em linhas  gerais, todos ser\u00e3o DevOps.",
+            "title": "Por que um time precisa entrar na cultura DevOps."
+        },
+        {
+            "location": "/devops/#entao-nao-precisamos-ter-um-devops-dedicado",
+            "text": "",
+            "title": "Ent\u00e3o n\u00e3o precisamos ter um DevOps dedicado?"
+        },
+        {
+            "location": "/devops/#todos-os-membros-dos-times-sem-excecao-pode-ser-um-devops-o-que-ocorre-e-uma-fase-de-transicao-onde-nao-existe-ainda-um-alicerce-em-infra-estrutura-para-proteger-os-times-deles-mesmos-de-impactos-ocasionado-pela-nova-filosofia-de-trabalho-do-outro-lado-ha-ainda-a-necessidade-dos-times-de-desenvolvimento-aprender-as-novas-ferramentas-que-compoe-o-papel-de-um-devops",
+            "text": "Logicamente, durante a transmiss\u00e3o entre uma cultura tradicional e DevOps, h\u00e1 a necessidade de um plano de a\u00e7\u00e3o transit\u00f3rio e naturalmente, \u00e9 normal em a cultura tradicional, toda a parte operacional esteja em infraestrutura.  Ent\u00e3o, em um processo tr\u00e2nsito, infraestrutura possui a miss\u00e3o de auxiliar os desenvolvedores a entender as ferramentas e atividades operacionais necess\u00e1ria para que o time absorva a cultura DevOps e recebam total ownership do ambiente.  O recurso de infra tentar\u00e1 participar das cerim\u00f4nias dos times sempre que poss\u00edvel mas sua principal atribui\u00e7\u00e3o ser\u00e1 suportar e treinar o time em ser auto suficiente atrav\u00e9s da cultura DevOps.  Uma vez que o time absorveu por completo toda a cultura DevOps, n\u00e3o h\u00e1 mais a necessidade de infraestrutura fornecer um indiv\u00edduo auxiliador com caracter\u00edsticas Ops.  Ops = IT operator, \u00e9 a parte infra da nomenclature DevOps.",
+            "title": "Todos os membros dos times, sem exce\u00e7\u00e3o, pode ser um DevOps! O que ocorre \u00e9 uma fase de transi\u00e7\u00e3o, onde n\u00e3o existe ainda um alicerce em infra-estrutura para proteger os times (deles mesmos) de impactos ocasionado pela nova filosofia de trabalho. Do outro lado, h\u00e1 ainda a necessidade dos times de desenvolvimento aprender as novas ferramentas que comp\u00f5e o papel de um DevOps."
+        },
+        {
+            "location": "/devops/#um-ops-dedicado-responde-para-quem-infra-ou-dev",
+            "text": "Entretanto, pode-se chegar a conclus\u00e3o por quest\u00f5es de neg\u00f3cio (ou outro motivo especial) o time de fato necessite de Ops(removido o Dev propositalmente) dedicado permanente.  Em casos assim, o papel OPS soma-se igualmente na relev\u00e2ncia t\u00e9cnica da composi\u00e7\u00e3o do time, motivo evidente para que o gestor use de seu head-count a fim de contratar este recurso.  Exemplos de casos especiais: stacks como Data Store(NoSQL, SQL, Search Engine) ou qualquer outra stack de aten\u00e7\u00e3o no qual um desenvolvedor n\u00e3o conseguiria se aprofundar usando sua musculatura ops e que fa\u00e7a sentido ao time ter algu\u00e9m especializado.  Todavia, pela caracter\u00edstica de similaridade com infra e total sinergia, esse membro Ops do time receber\u00e1 coaching t\u00e9cnico do time de infra. Pensando em analogia ao modelo de Squad seria o conceito de Guild.",
+            "title": "Um Ops dedicado responde para quem Infra ou Dev?"
+        },
+        {
+            "location": "/devops/#na-cultura-devops-pode-se-fazer-tudo-no-ambiente-ja-que-se-tem-acesso-a-tudo",
+            "text": "Uma boa analogia para definir limites \u00e9 pensar exatamente como um pr\u00e9dio:  -> <-  Mesmo comprando um apartamento que custou milh\u00f5es de Reais, n\u00e3o podemos simplesmente ir estacionando o carro em qualquer lugar, mudar a fachada de nossa varanda, muito menos impedir outros moradores de usar o elevador. Em um pr\u00e9dio h\u00e1 o s\u00edndico e sua equipe que tem como responsabilidade a  seguran\u00e7a, organiza\u00e7\u00e3o e manuten\u00e7\u00e3o da \u00e1rea comum!  Como dono do apartamento, podemos quebrar paredes para ampliar um espa\u00e7o em especial, mudar a decora\u00e7\u00e3o, dormir o dia todo ou ficar sempre acordado mas n\u00e3o podemos criar uma nova entrada para o apartamento que force o vizinho a tomar medidas por causa disso. Deve-se tomar cuidado com a palavra AUTONOMIA DA STACK!  Na cultura DevOps n\u00e3o pode fugir do escopo do time, deve pensar que criar uma VPC pode abrir um problema de comunica\u00e7\u00e3o entre VPN e VPC entre o escrit\u00f3rio e outros times (usando a analogia AWS). Desta maneira, o time tem acesso a sua infraestrutura mas suas a\u00e7\u00f5es n\u00e3o podem impactar algumas diretrizes.  Os times no contexto DevOps devem ser respons\u00e1veis por manter o ambiente documentado, para isso existem algumas ferramentas com o  gliffy.com  que permite desenho colaborativo.  O escopo DevOps \u00e9 unicamente o pr\u00f3prio time:  Garantir a comunica\u00e7\u00e3o e alinhamento entre as \u00e1reas em n\u00edvel horizontal (uso do Slack).  Cultura \u201cVoc\u00ea fez, voc\u00ea cuida.\"  Documenta\u00e7\u00e3o da stack.  Atua\u00e7\u00e3o em quest\u00f5es de infraestrutura e Qualidade/Automa\u00e7\u00e3o.  Garantir automa\u00e7\u00f5es que melhorem a qualidade do lifecycle.  Garantir o bom uso dos recursos computacionais do time\n* Garantir que todo o time se comuniquem de forma documentada, por exemplo, incentivando o time a detalhar situa\u00e7\u00f5es em ferramentas como Slack.  Sendo assim, desenvolvedores DevOps devem ter uma intera\u00e7\u00e3o muito grande com todos: Infra, QA e os demais Devs de outros times para conseguir atingir os objetivos.  Mais adiante ser\u00e1 exposto em duas sess\u00f5es o que dentro da cultura DevOps  poder\u00e1  e  n\u00e3o poder\u00e1  fazer.",
+            "title": "Na cultura DevOps pode-se fazer tudo no ambiente, j\u00e1 que se tem acesso a tudo ?"
+        },
+        {
+            "location": "/devops/#entao-qual-seria-o-papel-de-infra-estrutura",
+            "text": "Exatamente como na analogia do s\u00edndico e sua equipe, a OLX vem se dedicando em  garantir que as equipe possam desenvolver suas caracter\u00edsticas em velocidade r\u00e1pida sem risco de ser bloquear outras equipes (MISS\u00c3O) .  O S\u00edndico geralmente tem um apartamento no pr\u00e9dio mas mesmo ele precisa seguir as mesmas regras para que tudo funcione perfeitamente.  Para conseguir criar os alicerces necess\u00e1rios \u00e0  autonomia dos times, todos os tr\u00eas cases possuem em seus respectivos time infraestrutura a cultura DevOps ao ponto de possuir desenvolvedores backend/frontend e BigData Engineers.  O papel desses times passaram de ser operacional para gerarem solu\u00e7\u00f5es que garantam a seguran\u00e7a, autonomia e harmonia t\u00e9cnica entre os times que geram os produtos.",
+            "title": "Ent\u00e3o, qual seria o papel de Infra-estrutura."
+        },
+        {
+            "location": "/devops/#cloud-engineering",
+            "text": "O time respons\u00e1vel dentro da OLX por essa gest\u00e3o chama-se Cloud Engineering.  Um Cloud Engineer, \u00e9 respons\u00e1vel por desenhar as solu\u00e7\u00f5es em parceria com os times de desenvolvimento para garantir boas pr\u00e1ticas aos novos ambientes necess\u00e1rios. Essa parceria deve garantir sempre um Win-Win.  O escopo do cloud engineer atinge todos os times da engenharia/produto de software (cross):  Respons\u00e1vel juntamente com um especialista em seguran\u00e7a da informa\u00e7\u00e3o das quest\u00f5es pr\u00e1ticas de seguran\u00e7a.  Respons\u00e1vel sobre a infraestrutura base dos times  Respons\u00e1vel sobre  CDN e WAF dos times  Respons\u00e1vel sobre os DNSs externos dos times.  Aux\u00edlio na resolu\u00e7\u00e3o de problemas e documenta\u00e7\u00e3o da stack dos times de tecnologia.  Respons\u00e1vel sobre os pontos de converg\u00eancia inter-times, como banco de dados monolito.  Mas, dentro da cultura DevOps os times n\u00e3o deveriam resolver os problemas sozinhos ?  Sim, por\u00e9m,  lembrando que alguns problemas envolve um grau de conhecimento muito especialista impens\u00e1vel para a defini\u00e7\u00e3o do que \u00e9 um DevOps, para esse caso, o Cloud-Engineer \u00e9 um segundo n\u00edvel, sendo o primeiro n\u00edvel o pr\u00f3prio time.",
+            "title": "Cloud Engineering"
+        },
+        {
+            "location": "/devops/#sendo-pratico-o-que-dentro-de-cultura-devops-os-times-nao-deveconseguiram-fazer-sozinho",
+            "text": "Alterar configura\u00e7\u00f5es de rede: VPC e  security group Group(AWS ou equivalente em outra Cloud).  Essas configura\u00e7\u00f5es devem ser realizadas em parceria com o time de Cloud em fun\u00e7\u00e3o de serem configura\u00e7\u00f5es que impactam a seguran\u00e7a da empresa como um todo e os scripts que automatizam os controles da Cloud criados pelos Cloud Engineers.  Desligar ou reiniciar servi\u00e7os, inst\u00e2ncias de outros times.  Os DevOps poder\u00e3o reiniciar, desligar e dar terminate nos recursos computacionais do pr\u00f3prio time, ter\u00e3o total autonomia para isso mas n\u00e3o dever\u00e3o realizar esse procedimento na stack do outro time mesmo que a causa raiz de um dado problema seja um mal funcionamento em um servi\u00e7o deste dado time. Para casos assim, deve-se envolver os DevOps do dado time para que haja essas a\u00e7\u00f5es.  Criar sozinho m\u00e1quinas cuja o custo seja maior que U$ 0.30 hora.  A iniciativa  \u00e9 o envolver diretamente um Cloud Engineer para avaliar alternativas como por exemplo, a utiliza\u00e7\u00e3o de escalamento horizontal utilizando m\u00e1quinas mais baratas e por consequ\u00eancia, um Double check a fim de validar a real necessidade do recursos computacionais de pre\u00e7o expressivo.  Levantar inst\u00e2ncia computacionais fora do padr\u00e3o.  H\u00e1 algumas precisas para que uma inst\u00e2ncia computacional seja leg\u00edvel estar em opera\u00e7\u00e3o no ambiente e fora destes padr\u00f5es:   Deve possuir tags de identifica\u00e7\u00e3o  Deve utilizar as credenciais de acesso SSH adequado ao time (pem key do time j\u00e1 pr\u00e9, existe).  Deve ser inst\u00e2ncias levantada dentro da rede (VPC em analogia AWS) do time.   Esses padr\u00f5es servem para a seguran\u00e7a e uniformidade da tecnologia. Inst\u00e2ncias fora destes requisitos ter\u00e3o tempo de vida m\u00e1xima de 30 minutos no ambiente.  Cria\u00e7\u00e3o de novos logins  / usu\u00e1rios ou roles.  Todos os objetos que se referem a seguran\u00e7a, s\u00e3o pontos de gest\u00e3o cross-team e necessita de uma gest\u00e3o unificada.",
+            "title": "Sendo pr\u00e1tico, o que dentro de cultura DevOps os times n\u00e3o deve/conseguiram fazer sozinho."
+        },
+        {
+            "location": "/devops/#sendo-pratico-o-que-os-times-deveriamconseguiriam-fazer-sozinhos",
+            "text": "Qualquer coisa que n\u00e3o esteja listado no t\u00f3pico anterior \ud83d\ude04.",
+            "title": "Sendo pr\u00e1tico, o que os times deveriam/conseguiriam fazer sozinhos."
+        },
+        {
+            "location": "/squads/cloudengineering/",
+            "text": "Cloud Engineering\n\n\n\u00c9 um Squad com foco em gerar os alicerces necess\u00e1rios para que os outros squads possam criar os produtos em gerar impacto entre si!\n\n\nTamb\u00e9m criam coisas legais para que exista governan\u00e7a e visibilidade do que ocorre nos bastidores dos bits and bytes de cada produto.\n\n\nMiss\u00e3o\n\n\nGerar governan\u00e7a, liberdade sem vendor lock in.\n\n\nGrito de guerra\n\n\nCloud!!!\n\n\nApelido do Squad\n\n\nUrsinhos carinhosos.\n\n\nIntegrantes\n\n\n\n\nTiago\n\n\nDiogo\n\n\nGuarino\n\n\nMaycon\n\n\nDanilo\n\n\nFelipe",
+            "title": "Cloud Engineering"
+        },
+        {
+            "location": "/squads/cloudengineering/#cloud-engineering",
+            "text": "\u00c9 um Squad com foco em gerar os alicerces necess\u00e1rios para que os outros squads possam criar os produtos em gerar impacto entre si!  Tamb\u00e9m criam coisas legais para que exista governan\u00e7a e visibilidade do que ocorre nos bastidores dos bits and bytes de cada produto.",
+            "title": "Cloud Engineering"
+        },
+        {
+            "location": "/squads/cloudengineering/#missao",
+            "text": "Gerar governan\u00e7a, liberdade sem vendor lock in.",
+            "title": "Miss\u00e3o"
+        },
+        {
+            "location": "/squads/cloudengineering/#grito-de-guerra",
+            "text": "Cloud!!!",
+            "title": "Grito de guerra"
+        },
+        {
+            "location": "/squads/cloudengineering/#apelido-do-squad",
+            "text": "Ursinhos carinhosos.",
+            "title": "Apelido do Squad"
+        },
+        {
+            "location": "/squads/cloudengineering/#integrantes",
+            "text": "Tiago  Diogo  Guarino  Maycon  Danilo  Felipe",
+            "title": "Integrantes"
+        },
+        {
+            "location": "/squads/networkservers/",
+            "text": "Network & Servers\n\n\n\u00c9 um Squad com foco em nossa conectividade e solu\u00e7\u00f5es que exigem hospedagem dentro do contexto corporativo.\n\n\nMiss\u00e3o\n\n\nTemos uma infraestrutura corporativa com uptime e 99.99%.\n\n\nGrito de guerra\n\n\n\u00c9 nois mano!!!\n\n\nApelido do Squad\n\n\nOs pirata.\n\n\nIntegrantes\n\n\n\n\nRafael Ferreira (RJ)\n\n\nFelipe Moura (SP)",
+            "title": "Network & Servers"
+        },
+        {
+            "location": "/squads/networkservers/#network-servers",
+            "text": "\u00c9 um Squad com foco em nossa conectividade e solu\u00e7\u00f5es que exigem hospedagem dentro do contexto corporativo.",
+            "title": "Network &amp; Servers"
+        },
+        {
+            "location": "/squads/networkservers/#missao",
+            "text": "Temos uma infraestrutura corporativa com uptime e 99.99%.",
+            "title": "Miss\u00e3o"
+        },
+        {
+            "location": "/squads/networkservers/#grito-de-guerra",
+            "text": "\u00c9 nois mano!!!",
+            "title": "Grito de guerra"
+        },
+        {
+            "location": "/squads/networkservers/#apelido-do-squad",
+            "text": "Os pirata.",
+            "title": "Apelido do Squad"
+        },
+        {
+            "location": "/squads/networkservers/#integrantes",
+            "text": "Rafael Ferreira (RJ)  Felipe Moura (SP)",
+            "title": "Integrantes"
+        },
+        {
+            "location": "/squads/servicedesk/",
+            "text": "ServiceDesk\n\n\n\u00c9 um Squad com foco no aux\u00edlio aos usu\u00e1rios da OLX.\n\n\nMiss\u00e3o\n\n\nGeramos sorriso :)\n\n\nGrito de guerra\n\n\nMata que \u00e9 bicho !\n\n\nApelido do Squad\n\n\nLeke leke\n\n\nIntegrantes\n\n\n\n\nThiago Moraes (RJ)\n\n\nDaniel Carneiro (SP)\n\n\nWesley (SP)\n\n\nJorge Bezerra (RJ)\n\n\nNarciso (RJ)",
+            "title": "Service Desk"
+        },
+        {
+            "location": "/squads/servicedesk/#servicedesk",
+            "text": "\u00c9 um Squad com foco no aux\u00edlio aos usu\u00e1rios da OLX.",
+            "title": "ServiceDesk"
+        },
+        {
+            "location": "/squads/servicedesk/#missao",
+            "text": "Geramos sorriso :)",
+            "title": "Miss\u00e3o"
+        },
+        {
+            "location": "/squads/servicedesk/#grito-de-guerra",
+            "text": "Mata que \u00e9 bicho !",
+            "title": "Grito de guerra"
+        },
+        {
+            "location": "/squads/servicedesk/#apelido-do-squad",
+            "text": "Leke leke",
+            "title": "Apelido do Squad"
+        },
+        {
+            "location": "/squads/servicedesk/#integrantes",
+            "text": "Thiago Moraes (RJ)  Daniel Carneiro (SP)  Wesley (SP)  Jorge Bezerra (RJ)  Narciso (RJ)",
+            "title": "Integrantes"
+        },
+        {
+            "location": "/squads/cloudengineering/wiki/",
+            "text": "Wiki",
+            "title": "Cloud Engineering"
+        },
+        {
+            "location": "/squads/cloudengineering/wiki/#wiki",
+            "text": "",
+            "title": "Wiki"
+        },
+        {
+            "location": "/postmortem/",
+            "text": "Post mortem\n\n\nEsse \u00e9 o nosso espa\u00e7o para o famoso \"Ops, deu ruim...\"\n\n\nDegrada\u00e7\u00f5es\n\n\nN\u00e3o chegou a cair mas gerou impacto ao ambiente para prejudicar o usu\u00e1rio de alguma maneira\n\n\nIndisponibilidade\n\n\nFeriu nossa meta de  99.99% de Uptime do servi\u00e7o.\n\n\nHist\u00f3rico\n\n\n\n\n2017-07-01 - Degrada\u00e7\u00e3o do servi\u00e7o x\n\n\n2017-07-01 - Indisponibilidade do servi\u00e7o y",
+            "title": "Hist\u00f3rico"
+        },
+        {
+            "location": "/postmortem/#post-mortem",
+            "text": "Esse \u00e9 o nosso espa\u00e7o para o famoso \"Ops, deu ruim...\"",
+            "title": "Post mortem"
+        },
+        {
+            "location": "/postmortem/#degradacoes",
+            "text": "N\u00e3o chegou a cair mas gerou impacto ao ambiente para prejudicar o usu\u00e1rio de alguma maneira",
+            "title": "Degrada\u00e7\u00f5es"
+        },
+        {
+            "location": "/postmortem/#indisponibilidade",
+            "text": "Feriu nossa meta de  99.99% de Uptime do servi\u00e7o.",
+            "title": "Indisponibilidade"
+        },
+        {
+            "location": "/postmortem/#historico",
+            "text": "2017-07-01 - Degrada\u00e7\u00e3o do servi\u00e7o x  2017-07-01 - Indisponibilidade do servi\u00e7o y",
+            "title": "Hist\u00f3rico"
+        },
+        {
+            "location": "/postmortem/degradacoes/20170701x/",
+            "text": "O Servico X",
+            "title": "Degrada\u00e7\u00f5es"
+        },
+        {
+            "location": "/postmortem/degradacoes/20170701x/#o-servico-x",
+            "text": "",
+            "title": "O Servico X"
+        },
+        {
+            "location": "/postmortem/indisponibilidades/20170701y/",
+            "text": "O Servi\u00e7o Y",
+            "title": "Indisponibilidades"
+        },
+        {
+            "location": "/postmortem/indisponibilidades/20170701y/#o-servico-y",
+            "text": "",
+            "title": "O Servi\u00e7o Y"
+        }
+    ]
+}
