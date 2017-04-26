@@ -166,6 +166,41 @@
             "title": "Periodicidade dos Feedbacks"
         },
         {
+            "location": "/carreiray/avaliacao/",
+            "text": "Avalia\u00e7\u00e3o 360\n\n\nPalavras do Eduardo Ferreira...",
+            "title": "Avalia\u00e7\u00e3o 360"
+        },
+        {
+            "location": "/carreiray/avaliacao/#avaliacao-360",
+            "text": "Palavras do Eduardo Ferreira...",
+            "title": "Avalia\u00e7\u00e3o 360"
+        },
+        {
+            "location": "/carreiray/pilares/",
+            "text": "Pilares de avalia\u00e7\u00e3o\n\n\nEntenda quais s\u00e3o os pilares de avalia\u00e7\u00e3o 360 e o que eles representam.\n\n\nPilar 1\n\n\nEsse pilar verifica...\n\n\nPilar 2\n\n\nTemos como valor e isso...\n\n\nPilar 3\n\n\nRepresenta o quanto ....",
+            "title": "Pilares de avalia\u00e7\u00e3o"
+        },
+        {
+            "location": "/carreiray/pilares/#pilares-de-avaliacao",
+            "text": "Entenda quais s\u00e3o os pilares de avalia\u00e7\u00e3o 360 e o que eles representam.",
+            "title": "Pilares de avalia\u00e7\u00e3o"
+        },
+        {
+            "location": "/carreiray/pilares/#pilar-1",
+            "text": "Esse pilar verifica...",
+            "title": "Pilar 1"
+        },
+        {
+            "location": "/carreiray/pilares/#pilar-2",
+            "text": "Temos como valor e isso...",
+            "title": "Pilar 2"
+        },
+        {
+            "location": "/carreiray/pilares/#pilar-3",
+            "text": "Representa o quanto ....",
+            "title": "Pilar 3"
+        },
+        {
             "location": "/ownership/",
             "text": "Ownership\n\n\nN\u00e3o \u00e9 um conceito, \u00e9 um valor! Esse valor transcede a OLX, transcede cultura, nacionalidade, legisla\u00e7\u00e3o. \u00c9 um valor pessoal, um sentimento de dono pela qualidade do que se produz.\n\n\nO Verdadeiro Ownership\n\n\nComo dito, \u00e9 um valor e como valor, deve ser algo que as pessoas possuem (ou n\u00e3o), pela qual, a OLX incentiva! Queremos profissionais compromissados, apaixonados, dispostos a entender que nossos produtos geram impactos reais na vida das pessoas.\n\n\nO verdadeiro ownership pensa al\u00e9m da pr\u00f3pria empresa, pensa no consumidor, naquele que usa o produto no qual ele auxiliou a criar.\n\n\nCultura DevOps\n\n\nA cultura DevOps, pela pr\u00f3pria caracter\u00edstica, \u00e9 um concentrador de talentos com esse valor. N\u00e3o existe cultura DevOps sem pessoas com ownership porque parte da cultura \u00e9 justamente o \"You Build It, You Run It\".",
             "title": "Ownership"
@@ -344,6 +379,16 @@
             "location": "/squads/servicedesk/#integrantes",
             "text": "Thiago Moraes (RJ)  Daniel Carneiro (SP)  Wesley (SP)  Jorge Bezerra (RJ)  Narciso (RJ)",
             "title": "Integrantes"
+        },
+        {
+            "location": "/techtalk/",
+            "text": "Tech Talks\n\n\n\n\nEm per\u00edodos de 15 dias realizamos um evento bem nerd para #compartilhar conhecimento entre as pessoas.\n\n\nNossos tech talks s\u00e3o organizados pelo RH com muito carinho, aberto para toda a empresa.",
+            "title": "Tech Talks"
+        },
+        {
+            "location": "/techtalk/#tech-talks",
+            "text": "Em per\u00edodos de 15 dias realizamos um evento bem nerd para #compartilhar conhecimento entre as pessoas.  Nossos tech talks s\u00e3o organizados pelo RH com muito carinho, aberto para toda a empresa.",
+            "title": "Tech Talks"
         },
         {
             "location": "/squads/cloudengineering/wiki/",
