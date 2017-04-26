@@ -3,7 +3,7 @@
 
     
     <url>
-     <loc>/</loc>
+     <loc>https://cultura.olxbr.com/</loc>
      <lastmod>2017-04-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -12,59 +12,31 @@
     
         
     <url>
-     <loc>/organizacao/</loc>
+     <loc>https://cultura.olxbr.com/organizacao/</loc>
      <lastmod>2017-04-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/organizacao/produto/</loc>
+     <loc>https://cultura.olxbr.com/organizacao/produto/</loc>
      <lastmod>2017-04-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/organizacao/tecnologia/</loc>
+     <loc>https://cultura.olxbr.com/organizacao/tecnologia/</loc>
      <lastmod>2017-04-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/organizacao/agile/</loc>
+     <loc>https://cultura.olxbr.com/organizacao/agile/</loc>
      <lastmod>2017-04-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/organizacao/spotify/</loc>
-     <lastmod>2017-04-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>/carreiray/</loc>
-     <lastmod>2017-04-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/carreiray/feedbacks/</loc>
-     <lastmod>2017-04-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/carreiray/avaliacao/</loc>
-     <lastmod>2017-04-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/carreiray/pilares/</loc>
+     <loc>https://cultura.olxbr.com/organizacao/spotify/</loc>
      <lastmod>2017-04-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -74,63 +46,25 @@
     
         
     <url>
-     <loc>/ownership/</loc>
+     <loc>https://cultura.olxbr.com/carreiray/</loc>
      <lastmod>2017-04-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/ownership/exemplos/</loc>
-     <lastmod>2017-04-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>/devops/</loc>
-     <lastmod>2017-04-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>/squads/cloudengineering/</loc>
+     <loc>https://cultura.olxbr.com/carreiray/feedbacks/</loc>
      <lastmod>2017-04-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/squads/networkservers/</loc>
+     <loc>https://cultura.olxbr.com/carreiray/avaliacao/</loc>
      <lastmod>2017-04-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/squads/servicedesk/</loc>
-     <lastmod>2017-04-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-    <url>
-     <loc>/techtalk/</loc>
-     <lastmod>2017-04-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-        
-    <url>
-     <loc>/squads/cloudengineering/wiki/</loc>
+     <loc>https://cultura.olxbr.com/carreiray/pilares/</loc>
      <lastmod>2017-04-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -140,19 +74,85 @@
     
         
     <url>
-     <loc>/postmortem/</loc>
+     <loc>https://cultura.olxbr.com/ownership/</loc>
      <lastmod>2017-04-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/postmortem/degradacoes/20170701x/</loc>
+     <loc>https://cultura.olxbr.com/ownership/exemplos/</loc>
+     <lastmod>2017-04-26</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://cultura.olxbr.com/devops/</loc>
+     <lastmod>2017-04-26</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://cultura.olxbr.com/squads/cloudengineering/</loc>
      <lastmod>2017-04-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/postmortem/indisponibilidades/20170701y/</loc>
+     <loc>https://cultura.olxbr.com/squads/networkservers/</loc>
+     <lastmod>2017-04-26</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://cultura.olxbr.com/squads/servicedesk/</loc>
+     <lastmod>2017-04-26</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>https://cultura.olxbr.com/techtalk/</loc>
+     <lastmod>2017-04-26</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>https://cultura.olxbr.com/squads/cloudengineering/wiki/</loc>
+     <lastmod>2017-04-26</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://cultura.olxbr.com/postmortem/</loc>
+     <lastmod>2017-04-26</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://cultura.olxbr.com/postmortem/degradacoes/20170701x/</loc>
+     <lastmod>2017-04-26</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://cultura.olxbr.com/postmortem/indisponibilidades/20170701y/</loc>
      <lastmod>2017-04-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
