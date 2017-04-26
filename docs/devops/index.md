@@ -37,8 +37,7 @@ A cultura DevOps permite você escolher um candidato com mais musculatura ops, o
 ## Então não precisamos ter um DevOps dedicado?
 
 
-```Todos os membros dos times, sem exceção, pode ser um DevOps! O que ocorre é uma fase de transição, onde não existe ainda um alicerce em infra-estrutura para proteger os times (deles mesmos) de impactos ocasionado pela nova filosofia de trabalho. Do outro lado, há ainda a necessidade dos times de desenvolvimento aprender as novas ferramentas que compõe o papel de um DevOps.
-```
+Todos os membros dos times, sem exceção, pode ser um DevOps! O que ocorre é uma fase de transição, onde não existe ainda um alicerce em infra-estrutura para proteger os times (deles mesmos) de impactos ocasionado pela nova filosofia de trabalho. Do outro lado, há ainda a necessidade dos times de desenvolvimento aprender as novas ferramentas que compõe o papel de um DevOps.
 
 Logicamente, durante a transmissão entre uma cultura tradicional e DevOps, há a necessidade de um plano de ação transitório e naturalmente, é normal em a cultura tradicional, toda a parte operacional esteja em infraestrutura.
 
