@@ -1,5 +1,5 @@
 site_name: 'Cultura Tecnologia e Produto OLX.'
-repo_url: https://github.com/olxbr/techandprod
+repo_url: https://github.com/olxbr/olxbr.github.io.git
 pages:
  - Home: 'index.md'
  - Organização:
