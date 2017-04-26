@@ -54,12 +54,9 @@ Receber ótimos feedbacks é sempre gostoso mas e quando o feedback vem com sabo
 Como podemos receber um feedback ?
 
 1. Nunca leve na pessoal. A pessoa que esta lhe dando o feedback esta tentando ajuda-lo.
-2.
-
 Lembre-se o Feedback foi dado porque há um potencial a ser explorado! Veja sempre o lado positivo.
 2. Não tenha vergonha de aceitar a necessidade de melhorias. Um bom profissional é aquele que antes de tudo sabe admitir seus erros e buscar sempre crescer como pessoa.
 3. Se tiver resistente ao feedback, de uma pausa, reflita e marque uma nova rodada de conversa sobre esse assunto para que possa entender a perspectiva da pessoa que esta lhe dando aquele feedback.
-
 
 
 ## Periodicidade dos Feedbacks

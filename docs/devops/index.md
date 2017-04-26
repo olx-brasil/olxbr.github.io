@@ -19,7 +19,7 @@ Então,  se não é um super dev, super qa ou super infra, entende-se que qualqu
 
 ## Por que um time precisa entrar na cultura DevOps.
 
-->![DevOps](img/devopsman.png)<-
+![DevOps](img/devopsman.png)
 
 
 Quais são as reais necessidades do time quando se pensa em pedir ajuda para infra ?
@@ -68,7 +68,7 @@ Todavia, pela característica de similaridade com infra e total sinergia, esse m
 
 Uma boa analogia para definir limites é pensar exatamente como um prédio:
 
-->![Visinhos](img/predio.png)<-
+![Visinhos](img/predio.png)
 
 Mesmo comprando um apartamento que custou milhões de Reais, não podemos simplesmente ir estacionando o carro em qualquer lugar, mudar a fachada de nossa varanda, muito menos impedir outros moradores de usar o elevador. Em um prédio há o síndico e sua equipe que tem como responsabilidade a  segurança, organização e manutenção da área comum!
 
@@ -117,7 +117,8 @@ O escopo do cloud engineer atinge todos os times da engenharia/produto de softwa
 
 Mas, dentro da cultura DevOps os times não deveriam resolver os problemas sozinhos ?
 
-**Sim, porém,  lembrando que alguns problemas envolve um grau de conhecimento muito especialista impensável para a definição do que é um DevOps, para esse caso, o Cloud-Engineer é um segundo nível, sendo o primeiro nível o próprio time.**
+```Sim, porém,  lembrando que alguns problemas envolve um grau de conhecimento muito especialista impensável para a definição do que é um DevOps, para esse caso, o Cloud-Engineer é um segundo nível, sendo o primeiro nível o próprio time.
+```
 
 ## Sendo prático, o que dentro de cultura DevOps os times não deve/conseguiram fazer sozinho.
 
