@@ -11,14 +11,14 @@ Para termos uma carreira y eficiente precisamos de um mecanismo de avaliação p
 
 Feedback é um meio de transmitir a nossa percepção sobre uma pessoa de forma construtiva e com o objetivo de desenvolver quem a recebe.
 
-Geralmente os feedbacks são aplicados pelos gestarores sobre os liderados mas acreditamos que #tamojunto, então, a verdadeira cultura de feedback permite que as pessoas independente de área e nível hierarquivo possa dar um feedback, já que o intítuo é sempre desenvolver a pessoa.
+Geralmente os feedbacks são aplicados pelos gestores sobre os liderados mas acreditamos que #tamojunto, então, a verdadeira cultura de feedback permite que as pessoas independentes de área e níveis hierárquicos possam dar um feedback, já que o objetivo é sempre desenvolver para melhorar.
 
 Já deu seu feedback hoje ?
 
 
 ## Avaliação 360
 
-Ocorre em períodos tri-mestrais, são avaliações 360 grau, onde todas as pessoas do time possam avaliar a pessoa e a si mesmo dentro dos pilares que acreditamos ser fundamental para a evolução de carreira/promoção dentro da OLX.
+Ocorre em períodos trimestrais, são avaliações 360 grau, onde todas as pessoas do time possam avaliar a pessoa e a si mesmo dentro dos pilares que acreditamos ser fundamental para a evolução de carreira/promoção dentro da OLX.
 
 Essas avaliações devem sempre vir com exemplos e fatos para que os feedbacks gerado possam ser utilizado para o desenvolvimento e oportunidades para o crescimento no plano de carreira.
 

@@ -7,4 +7,4 @@ Somos dois times em **um**! Um site tão complexo como o OLX, precisa de pessoas
 * Produto sem tecnologia se chama utopia!
 * Engenharia sem produto se chama hobby!
 
-Então, nos organizamos em duas áreas: **Produto**: liderado pela Janet Baivera; **Tecnologia**: liderado por Bernardo Carneiro e pela união dos seus poderes, vai planeta (Para os que nasceu antes dos anos 90!)
+Então, nos organizamos em duas áreas: **Produto**: liderado pela Janet Baivera; **Tecnologia**: liderado por Bernardo Carneiro e pela união dos seus poderes, vai planeta (Para os que nasceram antes dos anos 90!)
