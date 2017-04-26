@@ -11,8 +11,8 @@ pages:
  - Carreira em Y:
       - O que é: 'carreiray/index.md'
       - Cultura de Feedbacks: carreiray/feedbacks.md
-#      - Avaliação 360: carreiray/avaliacao.md
-#      - Pilares de avaliação: carreiray/pilares.md
+      - Avaliação 360: carreiray/avaliacao.md
+      - Pilares de avaliação: carreiray/pilares.md
  - 'Nossa visão de ownership':
       - Ownership: 'ownership/index.md'
       - Exemplos de ownership: 'ownership/exemplos.md'
@@ -31,6 +31,7 @@ pages:
 #      - Tracking: 'squads/tracking/index.md'
       - Network & Servers: 'squads/networkservers/index.md'
       - Service Desk: 'squads/servicedesk/index.md'
+ - Tech Talks: 'techtalk/index.md'
  - Wiki:
      - Cloud Engineering: 'squads/cloudengineering/wiki.md'
  - Post mortem:
